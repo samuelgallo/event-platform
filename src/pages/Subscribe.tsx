@@ -70,7 +70,7 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-      <img className="mt-10" src="/src/assets/code-mockup.png" alt="" />
+      <img className="mt-10" src="../../src/assets/code-mockup.png" alt="" />
       <div></div>
     </div>
   );
