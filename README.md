@@ -17,13 +17,10 @@ This project build in a Javascript Full Stack
 ```bash
 cd event-platform
 npm install
-```
-
-## Usage
-
-```bash
 npm run dev
 ```
+
+## Demo
 
 Open [https://event-platform-flax.vercel.app/](https://event-platform-flax.vercel.app/) with your browser to see the application screen and you will be redirected to event page.
 
